@@ -1,5 +1,4 @@
 ## Hello World! 👋
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZmajUyNzR4MGRpa25vaTdxZ3M2dzcwdzJ6djJ4dzZ2c2NzczlneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Diym3aZO1dHzO/giphy.gif">
 
 Ich bin **ArkaEvn**
 My name is **ArkaEvn**
@@ -28,6 +27,8 @@ Here are some ideas to get you started:
 
 
 #### Connect With Me!
-![https://instagram.com/arkanjayy_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/arka-evannendra-308926331](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![https://instagram.com/arkanjayy_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arkanjayy_)  [![www.linkedin.com/in/arka-evannendra-308926331](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arka-evannendra-308926331)
+
+<img align="center" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZmajUyNzR4MGRpa25vaTdxZ3M2dzcwdzJ6djJ4dzZ2c2NzczlneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Diym3aZO1dHzO/giphy.gif">
 
 <img src="https://raw.githubusercontent.com/ArkaEvn/ArkaEvn/output/snake.svg" alt="Snake animation" />
