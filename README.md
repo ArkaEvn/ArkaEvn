@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-Ich bin **ArkaEvn**
+Ich bin **ArkaEvn** ||
 My name is **ArkaEvn**
 <!--
 **ArkaEvn/ArkaEvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
